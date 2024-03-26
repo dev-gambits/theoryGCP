@@ -6,8 +6,8 @@
 As of my last update in January 2022, Google Cloud Platform (GCP) offers a wide range of services across computing, storage, networking, databases, machine learning, analytics, security, and more. Here's a list of some of the key services:
 
 1. **Compute Services:**
-   - Google Compute Engine (Virtual Machines)
-   - Google Kubernetes Engine (Managed Kubernetes)
+   - Google Compute Engine (Virtual Machines) **CREATE**
+   - Google Kubernetes Engine (Managed Kubernetes) **CREATE**
    - Google App Engine (Platform as a Service)
    - Google Cloud Functions (Serverless Functions)
    - Google Cloud Run (Containerized Applications)
