@@ -2,6 +2,10 @@
 
 * [Productos de Google Cloud](https://cloud.google.com/products?hl=es_419)
 
+
+* LINK [LINK FILES ONE DRIVE](https://ipciisa-my.sharepoint.com/:f:/r/personal/emmanuel_nieto_munoz_ciisa_cl/Documents/REPO-FILES/theory-gcp?csf=1&web=1&e=LEKUKG)
+
+
 # List of all Google Cloud Platform services
 As of my last update in January 2022, Google Cloud Platform (GCP) offers a wide range of services across computing, storage, networking, databases, machine learning, analytics, security, and more. Here's a list of some of the key services:
 
